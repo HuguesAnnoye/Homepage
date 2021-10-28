@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: INGE1130 : Mathématiques (FR)
+linkTitle: INGE1130 Mathématiques (FR)
 summary: An introduction to Mathematics for BAC 1 business engineering students.
 title: INGE1130 - Mathématiques pour ingénieur de gestion I (FR)
 type: book

@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: ECGE1130 : Mathématiques I (FR)
+linkTitle: ECGE1130 Mathématiques I (FR)
 summary: An introduction to Mathematics for BAC 1 students in economics and business.
 title: ECGE1130 - Mathématiques pour l'économie et la gestion I (FR)
 type: book
@@ -26,11 +26,11 @@ L'objectif principal de ce cours est de présenter des bases mathématiques qui 
 
 ## Course content
 Les thèmes abordés sont:
-1. Principes de base des ensembles
-2. Eléments de logique
-3. Outils algébriques
-4. Analyse des fonctions réelles
-5. Optimisation à une variable
+1) Principes de base des ensembles
+2) Eléments de logique
+3) Outils algébriques
+4) Analyse des fonctions réelles
+5) Optimisation à une variable
 
 Au-delà de la présentation rigoureuse des concepts mathématiques, le cours abordera et traitera également de nombreux exemples d'applications économiques de ces derniers.
 

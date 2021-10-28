@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: INGE1132 : Mathématiques II (FR)
+linkTitle: INGE1132 Mathématiques II (FR)
 summary: An introduction to Mathematics for BAC 1 business engineering students.
 title: INGE1132 - Mathématiques pour ingénieur de gestion II (FR)
 type: book

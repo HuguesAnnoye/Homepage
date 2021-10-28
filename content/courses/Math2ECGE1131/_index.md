@@ -1,6 +1,6 @@
 ---
 date: "2021-01-24"
-linkTitle: ECGE1131 : Mathématiques II (FR)
+linkTitle: ECGE1131 Mathématiques II (FR)
 summary: An introduction to Mathematics for BAC 1 students in economics and business.
 title: ECGE1131 - Mathématiques pour l'économie et la gestion II (FR)
 type: book
