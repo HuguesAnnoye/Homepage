@@ -20,7 +20,7 @@ slides: ""
 summary: ""
 tags:
 - 
-title: Bachelor thesis, Les fonctions continues nulles part dérivables.
+title: Bachelor thesis, Les fonctions continues nulles part dérivables
 url_pdf: 
 ---
 

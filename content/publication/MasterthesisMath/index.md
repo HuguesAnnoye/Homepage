@@ -20,7 +20,7 @@ slides: ""
 summary: ""
 tags:
 - Wavelet
-title: Master thesis, Méthodes d’approximation et de seuillage pour les estimateurs à ondelettes en régression non paramétrique.
+title: Master thesis, Méthodes d’approximation et de seuillage pour les estimateurs à ondelettes en régression non paramétrique
 url_pdf: 
 ---
 

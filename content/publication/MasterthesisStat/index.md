@@ -20,7 +20,7 @@ slides: ""
 summary: ""
 tags:
 - Wavelet
-title: Master thesis, Confidence sets for (non)-linear wavelet estimation.
+title: Master thesis, Confidence sets for (non)-linear wavelet estimation
 url_pdf: 
 ---
 
