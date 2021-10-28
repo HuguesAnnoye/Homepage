@@ -2,7 +2,7 @@
 abstract:
 authors:
 - admin
-- Rainer von Sachs (Promotor)
+- Rainer von Sachs (Superviser)
 date: "2016-06-01"
 doi: ""
 featured: false

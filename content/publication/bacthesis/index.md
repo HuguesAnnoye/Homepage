@@ -2,7 +2,7 @@
 abstract:
 authors:
 - admin
-- Jean Van Schaftingen (Promotor)
+- Jean Van Schaftingen (Superviser)
 date: "2014-06-01"
 doi: ""
 featured: false
