@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Coordinator
+  - title: Reserchear (Data team)
     company: Beamm project
     company_url: ''
     company_logo: Beamm
@@ -36,7 +36,7 @@ experience:
         * available online and in open-access
         * running on mostly administrative data
         * and a platform for scientific research and policy support
-  - title: Promoter
+  - title: Reserchear (Data team)
     company: Beamm.brussels
     company_url: ''
     company_logo: Beamm-br
@@ -51,35 +51,6 @@ experience:
         * running on a micro-dataset representing the population of the Brussels Capital Region 
         * focussing on tax-benefit competences of the Region
         * beamm.brussels is funded by Innoviris in the Prospective Research for Brussels program
-
-  
-       
-  - title: Researcher
-    company: Smartmove
-    company_url: ''
-    company_logo: smartmove
-    location: Brussels
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        summary
-        
-        * project to assess the socio-economic impact of Smartmove
-        * Smartmove is a system of smart kilometer charges for the Brussels Capital Region
-        * together with Transport & Mobility Leuven
-        * report first stage available in <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Impactstudie_NL.pdf"> NL </a> or <a href="https://smartmove.brussels/content/dam/smartmove/common/documents/SmartMove_Analysed%27impact_FR.pdf"> FR </a>
-  - title: Methodological support
-    company: Institut bruxellois de statistique et analyse (IBSA-BISA)
-    company_url: ''
-    company_logo: BXL
-    location: Brussels
-    date_start: '2020-09-01'
-    date_end: ''
-    description: |2-
-        summary
-        
-        * Various methodological support for IBSA-BISA
-    
 
 design:
   columns: '2'
