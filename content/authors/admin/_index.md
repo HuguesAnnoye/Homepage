@@ -46,5 +46,5 @@ Hugues Annoye participates at the Beamm project, an effort to build an online op
 
 Hugues Annoye is member of the Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>), member of Séminaire de mathématiques appliquées aux sciences humaines (<a href="https://www3.usaintlouis.be/4DACTION/rechw_detail_unite/11/F">NODES</a>), member of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
 
-He is also member of Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) at <a href="https://uclouvain.be/en/index.html">UCLouvain</a> in Louvain-la-Neuve.
+He is also member of the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) at <a href="https://uclouvain.be/en/index.html">UCLouvain</a> in Louvain-la-Neuve.
 
