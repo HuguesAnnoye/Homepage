@@ -19,6 +19,7 @@ removePathAccents: true
 languages:
   en:
     languageName: English
+    title: Hugues Annoye
     weight: 1
     
   fr:
