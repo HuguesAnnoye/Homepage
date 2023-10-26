@@ -5,20 +5,20 @@
 
 main:
   - name: Présentation
-    url: '#about'
+    url: 'fr/#about'
     weight: 10
   - name: Nouvelles
-    url: '#posts'
+    url: 'fr/#posts'
     weight: 20
   - name: Projets
-    url: '#experience'
+    url: 'fr/#experience'
     weight: 30
   - name: Publications
-    url: '#publications'
+    url: 'fr/#publications'
     weight: 50
   - name: Enseignement
-    url: courses/
+    url: fr/courses/
     weight: 60
   - name: Contact
-    url: '#contact'
+    url: 'fr/#contact'
     weight: 70
