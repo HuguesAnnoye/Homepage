@@ -25,6 +25,7 @@ languages:
     languageName: Français
     weight: 2
     title: Hugues Annoye
+    contentDir: content/fr
 ############################
 ## MODULES
 ############################
