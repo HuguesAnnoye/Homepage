@@ -60,7 +60,7 @@
   translation: Intérêts
 - id: education
   translation: Formation
-- id: langage
+- id: language
   translation: Langues parlées
 - id: programming_language
   translation: Langages de programmation 
