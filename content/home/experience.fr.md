@@ -30,7 +30,7 @@ experience:
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
-          Beamm est
+        Beamm est
         * un modèle complet de microsimulation du système fiscale belge
         * disponible en ligne et en accès libre
         * fonctionnant principalement à partir de données administratives
