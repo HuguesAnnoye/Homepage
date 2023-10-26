@@ -9,18 +9,18 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
- fr:
-   languageCode: fr
-   contentDir: content/fr
-   title: Hugues Annoye
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-  menu:
-    main:
-     - name: Présentation
-       url: '#about'
-       weight: 1
+#  fr:
+#    languageCode: fr
+#    contentDir: content/fr
+#    title: Hugues Annoye
+# #zh:
+# #  languageCode: zh-Hans
+# #  contentDir: content/zh
+# #  title: Chinese website title...
+# #  params:
+# #    description: Site description in Chinese...
+#   menu:
+#     main:
+#      - name: Présentation
+#        url: '#about'
+#        weight: 1
