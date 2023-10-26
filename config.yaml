@@ -29,7 +29,7 @@ languages:
     menu:
      main:
        name: Présentation
-       url: 'fr/#about'
+       url: '#about'
 ############################
 ## MODULES
 ############################
