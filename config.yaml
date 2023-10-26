@@ -17,16 +17,20 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 languages:
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
+  en:
+    languageName: English
+    weight: 1
+    languageCode: en-us
+    # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+    contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-fr:
-  languageCode: fr
-  contentDir: content/fr
-  title: Hugues Annoye
+  fr:
+    languageName: Français
+    weight: 2
+    languageCode: fr
+    contentDir: content/fr
+    title: Hugues Annoye
 ############################
 ## MODULES
 ############################

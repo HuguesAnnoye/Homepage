@@ -16,8 +16,8 @@ interests:
 - Data science
 - Machine learning
 - Statistics
-- GAN
 - Statistical Matching
+- GAN
 - Microsimulation modelling
 programming_language:
 - R
