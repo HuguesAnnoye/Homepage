@@ -104,6 +104,11 @@
 - id: user_profile_latest
   translation: Latest
 
+- id: langage
+  translation: Languages
+  
+- id: programming_language
+  translation: Programming languages
 # Accomplishments widget
 
 - id: see_certificate
