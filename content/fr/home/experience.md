@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Projects
+title: Projets
 subtitle: 
 
 # Date format for experience
@@ -22,36 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Reserchear (Data team)
+  - title: Chercheur (Data team)
     company: Beamm project
     company_url: ''
     company_logo: Beamm
-    location: Brussels
+    location: Bruxelles
     date_start: '2019-01-01'
     date_end: ''
     description: |2-
-        Beamm is
-        
-        * a comprehensive tax-benefit microsimulation model
-        * available online and in open-access
-        * running on mostly administrative data
-        * and a platform for scientific research and policy support
-  - title: Reserchear (Data team)
+          Beamm est
+        * un modèle complet de microsimulation du système fiscale belge
+        * disponible en ligne et en accès libre
+        * fonctionnant principalement à partir de données administratives
+        * et une plateforme pour la recherche scientifique et le soutien politique
+  - title: Chercheur (Data team)
     company: Beamm.brussels
     company_url: ''
     company_logo: Beamm-br
-    location: Brussels
+    location: Bruxelles
     date_start: '2020-01-02'
     date_end: ''
     description: |2-
         Beamm.brussels is
         
-        * a project to built a comprehensive tax-benefit microsimulation model for the Brussels Capital Region
-        * available online and in open-access at beamm.brussels (coming soon)
-        * running on a micro-dataset representing the population of the Brussels Capital Region 
-        * focussing on tax-benefit competences of the Region
-        * beamm.brussels is funded by Innoviris in the Prospective Research for Brussels program
-
+     Beamm.brussels est
+        
+        * un projet visant à construire un modèle complet de microsimulation du système fiscale pour la Région de Bruxelles-Capitale
+        * disponible en ligne et en accès libre sur beamm.brussels (bientôt)
+        * fonctionnant sur un ensemble de micro-données représentant la population de la Région de Bruxelles-Capitale 
+        * se concentre sur les compétences de la Région en matière de fiscalité et d'avantages sociaux.
+        * beamm.brussels est financé par Innoviris dans le cadre du programme Prospective Research for Brussels.
 design:
   columns: '2'
 ---

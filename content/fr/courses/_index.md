@@ -2,9 +2,9 @@
 header:
   caption: ""
   image: ""
-title: Teaching
+title: Enseignement
 type: page
 view: 2
 ---
 
-I am assistant for the following courses:
+Je suis assistant pour les cours suivants : 
