@@ -1,0 +1,17 @@
+---
+title: "Mon Site construit en R blogdown et Hugo existe également en français"
+author: admin
+date: 2023-10-27
+categories: ["R"]
+tags: ["R Blogdown", "Hugo"]
+---
+
+# Digital resurrection! 
+Je suis heureux d'être de retour en ligne avec une nouvelle page d'accueil personnelle. La création de ce site a été une expérience très agréable, grâce :
+
+*   au <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
+*   au <a href="https://gohugo.io"> Hugo </a> static website builder  
+*   au thème <a href="https://wowchemy.com/hugo-themes/">wowchemy academic </a>  
+*   au tutoriel <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> online tutorial </a> de Jenny Sloane and Tehilla Ostrovsky    
+
+Un grand merci à tous ceux qui font en sorte qu'il soit si facile de bien paraître en ligne également en français !
