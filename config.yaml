@@ -21,11 +21,10 @@ languages:
     languageName: English
     title: Hugues Annoye
     weight: 1
-
- fr:
-  languageName: Français
-  weight: 2
-  title: Hugues Annoye
+  fr:
+   languageName: Français
+   weight: 2
+   title: Hugues Annoye
     #contentDir: content/fr
     # menu:
     # - name: Présentation
