@@ -113,18 +113,9 @@
     
     
       <div class="row">
-        
-      {{ with $person.programming_language }}
-      <div class="col-md-7">
-        <div class="section-subheading">{{ i18n "programming_language" | markdownify }}</div>
-          <ul class="ul-programming_language mb-0">
-          {{ range . }}
-          <li>{{ . | markdownify | emojify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
+      
+      
+      
       {{ with $person.language }}
       <div class="col-md-5">
         <div class="section-subheading">{{ i18n "language" | markdownify }}</div>
@@ -135,8 +126,17 @@
         </ul>
       </div>
       {{ end }}
-
-   
+      
+      {{ with $person.programming_language }}
+      <div class="col-md-7">
+        <div class="section-subheading">{{ i18n "programming_language" | markdownify }}</div>
+          <ul class="ul-programming_language mb-0">
+          {{ range . }}
+          <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
 
     </div>
   </div>
