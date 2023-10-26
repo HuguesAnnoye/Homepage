@@ -43,9 +43,7 @@ experience:
     date_start: '2020-01-02'
     date_end: ''
     description: |2-
-        Beamm.brussels is
-        
-     Beamm.brussels est
+        Beamm.brussels est
         
         * un projet visant à construire un modèle complet de microsimulation du système fiscale pour la Région de Bruxelles-Capitale
         * disponible en ligne et en accès libre sur beamm.brussels (bientôt)
