@@ -26,6 +26,10 @@ languages:
     weight: 2
     title: Hugues Annoye
     contentDir: content/fr
+    menu:
+     main:
+       name: Présentation
+       url: '#about'
 ############################
 ## MODULES
 ############################
