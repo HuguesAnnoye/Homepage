@@ -20,12 +20,12 @@ languages:
   en:
     languageName: English
     weight: 1
-
+    
   fr:
     languageName: Français
     weight: 2
     title: Hugues Annoye
-    contentDir: content/fr
+    #contentDir: content/fr
     # menu:
     # - name: Présentation
     #   url: '#about'
