@@ -24,14 +24,15 @@ email: hugues.annoye@uclouvain.be
 # phone: 888 888 88 88
 address:
   street: Boulevard du Jardin botanique 43
-  city: Brussels
+  city: Bruxelles
   postcode: '1000'
-  country: Belgium
+  country: Belgique
   country_code: BE
 coordinates:
   latitude: '50.85426'
   longitude: '4.36127'
-directions: To find my office **E6** in the Saint-Louis maze, enter the university via the parking in the Rue du Marais, enter the building 38 at the corner of Rue du Marais and the Boulevard du Jardin botanique through the **second door** at the left, take the elevator or climb to the **4th floor**, and find office E6. 
+directions: Pour trouver mon bureau, le **E6** dans le labyrinthe de Saint-Louis, entrez dans l'université par le parking de la rue du Marais, entrez dans le bâtiment 38 à l'angle de la rue du Marais et du boulevard du Jardin botanique par la **deuxième porte** à gauche, prenez l'ascenseur ou montez l'escalier juqu'au **4ème étage**, et trouvez le bureau E6. 
+ 
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
@@ -69,7 +70,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: fr
 
 # Site features
 
