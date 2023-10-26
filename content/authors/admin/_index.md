@@ -18,6 +18,17 @@ interests:
 - Statistics
 - Statistical Matching
 - Microsimulation modelling
+programming language:
+- R
+- Python
+- latex
+- SAS
+- Matlab 
+- c++ (basic)
+language:
+- French
+- English 
+- Dutch (basic)
 organizations:
 - name: UCLouvain Saint-Louis Bruxelles
   url: http://www.usaintlouis.be/
