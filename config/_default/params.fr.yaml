@@ -76,9 +76,8 @@ address_format: fr
 
 highlight: true
 highlight_languages:
-  - r
-  - python
-  - latex
+  - en
+  - fr
 math: false
 diagram: false
 privacy_pack: false
