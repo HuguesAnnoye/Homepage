@@ -9,10 +9,10 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-fr:
-  languageCode: fr
-  contentDir: content/fr
-  title: Hugues Annoye
+# fr:
+#   languageCode: fr
+#   contentDir: content/fr
+#   title: Hugues Annoye
 #zh:
 #  languageCode: zh-Hans
 #  contentDir: content/zh
