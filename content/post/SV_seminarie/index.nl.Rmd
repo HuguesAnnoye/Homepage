@@ -1,0 +1,17 @@
+---
+title: "New homepage built in R blogdown and Hugo"
+author: admin
+date: 2021-10-21
+categories: ["R"]
+tags: ["R Blogdown", "Hugo"]
+---
+
+# Digital resurrection! 
+I am happy to be back online with a new personal homepage. Building this website was a very pleasant experience, thanks to:   
+
+*   The <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
+*   The <a href="https://gohugo.io"> Hugo </a> static website builder  
+*   The <a href="https://wowchemy.com/hugo-themes/">wowchemy academic </a> theme  
+*   A great <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> online tutorial </a> by Jenny Sloane and Tehilla Ostrovsky    
+
+Many thanks to all to make it so easy to look good online!
