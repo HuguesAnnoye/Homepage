@@ -22,7 +22,7 @@ interests:
 programming_language:
 - R
 - Python
-- latex
+- Latex
 - SAS
 - Matlab 
 - c++ (bases)
