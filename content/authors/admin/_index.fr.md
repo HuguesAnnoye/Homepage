@@ -27,7 +27,7 @@ programming_language:
 - Matlab 
 - c++ (bases)
 language:
-- Frànçais
+- Français
 - Anglais 
 - Néerlandais (bases)
 organizations:
