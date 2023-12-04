@@ -6,7 +6,7 @@ categories: ["Beamm"]
 tags: ["Beamm","Microsimulation"]
 ---
 
-# Digital resurrection! 
+# Séminaire à Statistiek Vlaanderen! 
 
 Le lundi 23 octobre 2023, Statistiek Vlaanderen organisait un séminaire sur les microsimulations. La microsimulation est une technique qui permet de modéliser les changements futurs dans des phénomènes sociaux complexes basés sur le comportement d'unités individuelles, telles que les individus et les ménages.
 

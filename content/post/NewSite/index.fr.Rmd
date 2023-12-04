@@ -6,12 +6,12 @@ categories: ["R"]
 tags: ["R Blogdown", "Hugo"]
 ---
 
-# Digital resurrection! 
-Je suis heureux d'être de retour en ligne avec une nouvelle page d'accueil personnelle. La création de ce site a été une expérience très agréable, grâce :
+# Mon site également disponible en français ! 
+Je suis heureux de vous présenter mon site personnel également en français. La création de ce site a été possible grâce :
 
-*   au <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
-*   au <a href="https://gohugo.io"> Hugo </a> static website builder  
+*   au package <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a>   
+*   au <a href="https://gohugo.io"> Hugo static website builder</a> 
 *   au thème <a href="https://wowchemy.com/hugo-themes/">wowchemy academic </a>  
-*   au tutoriel <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> online tutorial </a> de Jenny Sloane and Tehilla Ostrovsky    
+*   au <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> tutoriel en ligne </a> de Jenny Sloane et Tehilla Ostrovsky    
 
-Un grand merci à tous ceux qui font en sorte qu'il soit si facile de bien paraître en ligne également en français !
+Un grand merci à tous ceux qui font en sorte qu'il soit si facile créer un site internet en anglais comme en français !
