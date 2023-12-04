@@ -7,7 +7,7 @@ education:
   - course: Master en Mathématiques
     institution: UCLouvain
     year: 2016
-  - course: Bachelier er Mathématiques
+  - course: Bachelier en Mathématiques
     institution: UCLouvain
     year: 2014
 email: hugues.annoye@uclouvain.be
