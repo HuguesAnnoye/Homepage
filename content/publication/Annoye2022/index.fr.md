@@ -5,7 +5,7 @@ authors:
 - Alessandro Beretta
 - Cédric Heuchenne 
 - Ida-Marie Jensen
-date: "2024-02"
+date: "2024-02-01"
 doi: ""
 featured: false
 image:
@@ -17,7 +17,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2024-02"
+publishDate: "2024-02-01"
 slides: ""
 summary: ""
 tags:

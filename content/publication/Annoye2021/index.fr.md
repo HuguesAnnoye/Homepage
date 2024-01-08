@@ -4,7 +4,7 @@ authors:
 - admin
 - Alessandro Beretta
 - Cédric Heuchenne 
-date: "2024-01"
+date: "2024-01-04"
 doi: "10.1016/j.eswa.2023.123134"
 featured: false
 image:
@@ -12,11 +12,11 @@ image:
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''
+publication: 'Expert Systems with Applications'
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2024-01"
+- "2"
+publishDate: "2024-01-04"
 slides: ""
 summary: ""
 tags:

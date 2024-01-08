@@ -15,7 +15,7 @@ projects: []
 publication: ''
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2024-01"
 slides: ""
 summary: ""
