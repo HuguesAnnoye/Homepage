@@ -5,7 +5,7 @@ authors:
 - Alessandro Beretta
 - Cédric Heuchenne 
 - Ida-Marie Jensen
-date: "2021-10-01"
+date: "2024-02"
 doi: ""
 featured: false
 image:
@@ -17,12 +17,12 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2022-06-30"
+publishDate: "2024-02"
 slides: ""
 summary: ""
 tags:
 - Statistical matching
-title: Statistical Matching using KCCA, MMLP and Autoencoders-CCA
+title: Statistical Matching using Autoencoders-Canonical Correlation Analysis, Kernel Canonical Correlation Analysis and Multi-output Multilayer Perceptron
 url_pdf: 
 ---
 
