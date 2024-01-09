@@ -59,5 +59,5 @@ Hugues Annoye participe au projet Beamm, qui vise à construire un modèle de mi
 
 Hugues Annoye est membre de plusieurs centres de recherche de l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a> : le Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>), le Séminaire de mathématiques appliquées aux sciences humaines (<a href="https://www3.usaintlouis.be/4DACTION/rechw_detail_unite/11/F">NODES</a>), l'Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) et le Centre de Recherche en Économie (<a href="https://cerec.be">CEREC</a>). 
 
-Il est également membre de l'Institut de Statistiques, Biostatistique et sciences Actuarielles (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) de l'<a href="https://uclouvain.be/fr/index.html">UCLouvain</a> à Louvain-la-Neuve.
+Il est également membre de l'Institut de Statistique, Biostatistique et sciences Actuarielles (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) de l'<a href="https://uclouvain.be/fr/index.html">UCLouvain</a> à Louvain-la-Neuve.
 
