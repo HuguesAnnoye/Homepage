@@ -44,7 +44,7 @@ experience:
     date_start: '2020-01-02'
     date_end: ''
     description: |2-
-        Beamm.brussels is
+        <a href="https://beamm.brussels/">Beamm.brussels</a> is
         
         * a project to built a comprehensive tax-benefit microsimulation model for the Brussels Capital Region
         * available online and in open-access at beamm.brussels (coming soon)
