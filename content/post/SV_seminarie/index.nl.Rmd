@@ -1,17 +1,15 @@
 ---
-title: "New homepage built in R blogdown and Hugo"
+title: "SV-seminaire  : Microsimulations"
 author: admin
 date: 2023-10-23
 categories: ["R"]
 tags: ["R Blogdown", "Hugo"]
 ---
 
-# Digital resurrection! 
-I am happy to be back online with a new personal homepage. Building this website was a very pleasant experience, thanks to:   
+# Seminar at Statistics Flanders ! 
+Op maandag 23 oktober 2023 organiseerde Statistiek Vlaanderen een seminarie over microsimulaties. Microsimulatie is een techniek om toekomstige veranderingen in complexe sociale fenomenen te modelleren op basis van het gedrag van individuele eenheden, zoals individuen en huishoudens.
 
-*   The <a href="https://bookdown.org/yihui/blogdown/">R Blogdown </a> package  
-*   The <a href="https://gohugo.io"> Hugo </a> static website builder  
-*   The <a href="https://wowchemy.com/hugo-themes/">wowchemy academic </a> theme  
-*   A great <a href="https://www.youtube.com/watch?v=8xbxXR_Iu5Y&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj"> online tutorial </a> by Jenny Sloane and Tehilla Ostrovsky    
+Naast een inleiding tot microsimulaties als modelleringstechniek, zullen experts van binnen en buiten het netwerk van Statistics Flanders enkele concrete voorbeelden van beleidsrelevante microsimulatiemodellen voorstellen. Ik nam deel aan dit seminarie met een gezamenlijke presentatie met Tom Truyts:
 
-Many thanks to all to make it so easy to look good online!
+    BEAMM-model (UCLouvain Saint-Louis): Een open access online microsimulatiemodel voor belastingen, sociale bijdragen en uitkeringen.
+    BEAMM-model: Tom Truyts en Hugues Annoye (UCLouvain Saint-Louis)

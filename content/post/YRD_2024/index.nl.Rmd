@@ -1,0 +1,14 @@
+---
+title: "YRD : Wasserstein GAN"
+author: admin
+date: 2023-10-23
+categories: ["R"]
+tags: ["R Blogdown", "Hugo"]
+---
+
+# Seminar at YRD.
+Op vrijdag 9 februari 2024 presenteerde ik mijn onderzoek op de Young Research Day in Louvain-la-Neuve. De titel van mijn presentatie was :
+Het genereren van administratieve databanken met Wasserstein GAN.
+
+Hier is de samenvatting: 
+In a world increasingly surrounded by data, data privacy and anonymisation are becoming more and more important. Under these circumstances, the need for fake data bases that replicate the characteristics of the population while preserving privacy is arising. In this presentation, we investigate how we can use Wasserstein generative adversarial network (WGAN), developed by [ACB17] in the context of image synthesis, to create administrative data bases and we also adapt it to take weights into account. Administrative data have the spe-cificity of mixing continuous and categorical data, which should be taken into account in the architecture of the WGANs. Then, we present a new method to evaluate the results based on Support Vector Data Description (SVDD) on real data coming from Labour Force Survey (LFS).
