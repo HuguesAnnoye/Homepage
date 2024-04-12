@@ -11,7 +11,7 @@ education:
     institution: UCLouvain
     year: 2014
 email: hugues.annoye@uclouvain.be
-phone: 003227923582 
+phone: +32 / (0)2 792 35 82 (ext. : 12582) 
 highlight_name: true
 interests:
 - Data science
