@@ -1,5 +1,5 @@
 ---
-title: "BNB Data Academy : BEAMM: online open-access microsimulation modeling"
+title: "BNB Data Academy : BEAMM - online open-access microsimulation modeling"
 author: admin
 date: 2024-04-25
 categories: ["Beamm"]
@@ -8,7 +8,7 @@ tags: ["Beamm","Microsimulation"]
 
 # Séminaire à la BNB! 
 
-Le jeudi 25 avril 2024, j'ai donné un séminaire à la data academy de la Banque nationale de Belgique. C'était une présentation conjointe avec Tom Truyts.
+Le jeudi 25 avril 2024, j'ai donné unee présentation conjointe avec Tom Truyts à la data academy de la Banque nationale de Belgique. 
 
-BEAMM: online open-access microsimulation modeling
-BEAMM-model: Tom Truyts et Hugues Annoye (UCLouvain Saint-Louis)
+BEAMM : online open-access microsimulation modeling
+BEAMM-model: Tom Truyts et Hugues Annoye (UCLouvain Saint-Louis).

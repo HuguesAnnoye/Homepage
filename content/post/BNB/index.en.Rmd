@@ -1,5 +1,5 @@
 ---
-title: "NBB Data Academy : BEAMM: online open-access microsimulation modeling"
+title: "NBB Data Academy: BEAMM - online open-access microsimulation modeling"
 author: admin
 date: 2024-04-25
 categories: ["Beamm"]
