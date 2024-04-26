@@ -8,7 +8,7 @@ tags: ["Beamm","Microsimulation"]
 
 # Seminar at nbb ! 
 
-On Thursday, April 25 2024,I presented a seminar at the Data Academy of the National Bank of Belgium. It was a joint talk with Tom Truyts : 
+On Thursday, April 25 2024,I presented a seminar at the Data Academy of the National Bank of Belgium. It was a joint talk with Tom Truyts.
 
-    BEAMM: online open-access microsimulation modeling
-    BEAMM-model: Tom Truyts and Hugues Annoye (UCLouvain Saint-Louis)
+BEAMM: online open-access microsimulation modeling
+BEAMM-model: Tom Truyts and Hugues Annoye (UCLouvain Saint-Louis)

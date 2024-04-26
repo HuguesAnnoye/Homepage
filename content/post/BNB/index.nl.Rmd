@@ -9,5 +9,5 @@ tags: ["Beamm","Microsimulation"]
 # Seminar at NBB ! 
 Ik heb op donderdag 25 april 2024 een seminar gegeven aan de Data Academie van de Nationale Bank van België. Het was een gezamenlijke presentatie met Tom Truyts:
 
-    BEAMM : Een open access online microsimulatiemodel voor belastingen, sociale bijdragen en uitkeringen.
-    BEAMM-model: Tom Truyts en Hugues Annoye (UCLouvain Saint-Louis)
+BEAMM : Een open access online microsimulatiemodel voor belastingen, sociale bijdragen en uitkeringen.
+BEAMM-model: Tom Truyts en Hugues Annoye (UCLouvain Saint-Louis)

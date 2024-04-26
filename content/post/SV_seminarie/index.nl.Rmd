@@ -11,5 +11,5 @@ Op maandag 23 oktober 2023 organiseerde Statistiek Vlaanderen een seminarie over
 
 Naast een inleiding tot microsimulaties als modelleringstechniek, zullen experts van binnen en buiten het netwerk van Statistics Flanders enkele concrete voorbeelden van beleidsrelevante microsimulatiemodellen voorstellen. Ik nam deel aan dit seminarie met een gezamenlijke presentatie met Tom Truyts:
 
-    BEAMM-model (UCLouvain Saint-Louis): Een open access online microsimulatiemodel voor belastingen, sociale bijdragen en uitkeringen.
-    BEAMM-model: Tom Truyts en Hugues Annoye (UCLouvain Saint-Louis)
+BEAMM-model (UCLouvain Saint-Louis): Een open access online microsimulatiemodel voor belastingen, sociale bijdragen en uitkeringen.
+BEAMM-model: Tom Truyts en Hugues Annoye (UCLouvain Saint-Louis)
