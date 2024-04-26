@@ -1,9 +1,9 @@
 ---
 title: "NBB : Data Academie"
 author: admin
-date: 2023-10-23
-categories: ["R"]
-tags: ["R Blogdown", "Hugo"]
+date: 2024-04-25
+categories: ["Beamm"]
+tags: ["Beamm","Microsimulation"]
 ---
 
 # Seminar at NBB ! 

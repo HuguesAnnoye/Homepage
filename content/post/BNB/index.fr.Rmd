@@ -1,7 +1,7 @@
 ---
 title: "BNB Data Academy : BEAMM: online open-access microsimulation modeling"
 author: admin
-date: 2023-10-23
+date: 2024-04-25
 categories: ["Beamm"]
 tags: ["Beamm","Microsimulation"]
 ---
