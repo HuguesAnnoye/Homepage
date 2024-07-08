@@ -4,7 +4,6 @@ authors:
 - admin
 - Alessandro Beretta
 - Cédric Heuchenne 
-- Ida-Marie Jensen
 date: "2024-01-08"
 doi: ""
 featured: false
