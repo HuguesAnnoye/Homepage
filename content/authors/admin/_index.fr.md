@@ -55,7 +55,7 @@ title: Hugues Annoye
 ---
 
 Hugues Annoye est chercheur en statistique et en apprentissage automatique. Il est doctorant en statistique sous la direction de Cédric Heuchenne. Il est également assistant en méthodes quantitatives (principalement en mathématiques) à l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
-Hugues Annoye participe au projet Beamm, qui vise à construire un modèle de microsimulation du système fiscale en Belgique. 
+Hugues Annoye participe au projet Beamm, qui vise à construire un modèle de microsimulation du système fiscal en Belgique. 
  
 
 Hugues Annoye est membre de plusieurs centres de recherche de l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a> : le Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>), le Séminaire de mathématiques appliquées aux sciences humaines (<a href="https://www3.usaintlouis.be/4DACTION/rechw_detail_unite/11/F">NODES</a>), l'Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) et le Centre de Recherche en Économie (<a href="https://cerec.be">CEREC</a>). 
