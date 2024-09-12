@@ -1,7 +1,7 @@
 ---
 education:
   courses:
-    - course: Doctorat en Sciences
+  - course: Doctorat en Sciences
     institution: UCLouvain
     year: 2024
   - course: Master en Statistique

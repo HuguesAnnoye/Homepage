@@ -1,7 +1,7 @@
 ---
 education:
   courses:
-    - course: Phd in Science
+  - course: Phd in Science
     institution: UCLouvain
     year: 2024
   - course: Master in Statistics
