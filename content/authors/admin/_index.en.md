@@ -1,6 +1,9 @@
 ---
 education:
   courses:
+    - course: Phd in Science
+    institution: UCLouvain
+    year: 2024
   - course: Master in Statistics
     institution: UCLouvain
     year: 2017
@@ -54,8 +57,8 @@ superuser: true
 title: Hugues Annoye
 ---
 
-Hugues Annoye is a researcher in statistics and machine learning, and a PhD student in statistics under the supervision of Cédric Heuchenne. He is also assistant in quantitative methods (mainly mathematics) at <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>.  His research interests include statistics and data science. 
-Hugues Annoye participates at the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Hugues Annoye is a researcher in statistics and machine learning and holds a PhD in science after completing a thesis in statistics under the supervision of Cédric Heuchenne. He is currently a researcher at <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>.  His research interests include statistics and data science. 
+Hugues Annoye is involved in the Beamm project, which aims to build a microsimulation model of the tax system in Belgium. He was previously a teaching assistant in quantitative methods (mainly in mathematics)."
 
 Hugues Annoye is member of the Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>), member of Networks Ontology Data Epistemology Subjectivity (<a href="https://www3.usaintlouis.be/4DACTION/rechw_detail_unite/11/F">NODES</a>), member of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
 
