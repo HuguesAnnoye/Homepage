@@ -37,7 +37,7 @@ language:
 organizations:
 - name: UCLouvain Saint-Louis Bruxelles
   url: http://www.usaintlouis.be/
-role: Assistant en méthodes quantitatives 
+role: Chercheur postdoctoral 
 social:
 - icon: envelope
   icon_pack: fas
