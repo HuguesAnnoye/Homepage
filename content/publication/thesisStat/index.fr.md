@@ -2,7 +2,7 @@
 abstract: 
 authors:
 - admin
-- Heuchenne Cédric (Promoteur)
+- Cédric Heuchenne (Promoteur)
 date: "2024-09-11"
 doi: ""
 featured: false
