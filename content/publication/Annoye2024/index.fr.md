@@ -19,7 +19,7 @@ publishDate: "2024-07-08"
 slides: ""
 summary: ""
 tags:
-- GAN
+- Wasserstein GAN
 title: Generating survey databases with Wasserstein Generative Adversarial Networks.
 url_pdf: 
 ---

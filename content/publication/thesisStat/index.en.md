@@ -19,7 +19,8 @@ publishDate: "2024-09-11"
 slides: ""
 summary: ""
 tags:
-- Wavelet
+- Statistical matching
+- Wasserstein GAN
 title: Thesis, Statistical matching and data generation
 url_pdf: 
 ---
