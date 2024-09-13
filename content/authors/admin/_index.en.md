@@ -37,7 +37,7 @@ language:
 organizations:
 - name: UCLouvain Saint-Louis Bruxelles
   url: http://www.usaintlouis.be/
-role: Postdoctoral researcher.
+role: Postdoctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
