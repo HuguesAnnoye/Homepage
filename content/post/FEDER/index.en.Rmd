@@ -1,7 +1,7 @@
 ---
 title: "EFRO-FEDER Funding for Beamm.brussels"
 author: admin
-date: 2024-06-15
+date: 2024-06-01
 categories: ["Beamm"]
 tags: ["Beamm", "Brussels"]
 ---
