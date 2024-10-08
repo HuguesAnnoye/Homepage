@@ -7,4 +7,4 @@ type: page
 view: 2
 ---
 
-I am assistant for the following courses:
+I was assistant for the following courses:

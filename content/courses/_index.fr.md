@@ -7,4 +7,4 @@ type: page
 view: 2
 ---
 
-Je suis assistant pour les cours suivants : 
+J'étais assistant pour les cours suivants : 
