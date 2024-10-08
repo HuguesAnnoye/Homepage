@@ -6,5 +6,6 @@ categories: ["Beamm"]
 tags: ["Beamm", "Brussels"]
 ---
 
+# FEDER
 
 Nous sommes très heureux de vous annoncer que la Région de Bruxelles-Capitale a décidé d’octroyer un financement du Fonds européen de développement régional (FEDER-EFRO) à notre projet Beamm.brussels. Cela nous permettra d'accélérer le développement de notre plateforme Beamm.brussels, afin d'aider les décideurs politiques et les autres acteurs bruxellois à évaluer l'impact des politiques fiscales et sociales dans la région. Curieux ? Visitez notre plateforme <a href="https://beamm.brussels"> beamm.brussels </a> vous-même !

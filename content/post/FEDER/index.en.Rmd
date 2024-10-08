@@ -6,5 +6,6 @@ categories: ["Beamm"]
 tags: ["Beamm", "Brussels"]
 ---
 
+# FEDER
 
 We are very happy to share that the Brussels Capital Region has decided to endow our Beamm.brussels project with European Fund for Regional Development (EFRO-FEDER) funding. This will allow us to accelerate the development of our Beamm.brussels platform, in order to help policy makers and other stakeholders in Brussels to assess the impact of fiscal and social policies in Brussels. Curious? Visit our <a href="https://beamm.brussels"> beamm.brussels </a> platform yourself!
