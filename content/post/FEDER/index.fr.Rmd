@@ -1,5 +1,5 @@
 ---
-title: "EFRO-FEDER pour Beamm.brussels"
+title: "Fonds européen de développement régional (FEDER-EFRO) pour Beamm.brussels"
 author: admin
 date: 2024-06-15
 categories: ["R"]
