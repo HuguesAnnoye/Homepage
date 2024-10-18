@@ -20,7 +20,7 @@ slides: ""
 summary: ""
 tags:
 - Wasserstein GAN
-title: Generating survey databases with Wasserstein Generative Adversarial Networks.
+title: Generating survey databases with Wasserstein Generative Adversarial Networks
 url_pdf: 
 ---
 
