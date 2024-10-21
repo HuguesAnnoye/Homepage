@@ -57,7 +57,7 @@ superuser: true
 title: Hugues Annoye
 ---
 
-Hugues Annoye est chercheur en statistique et en apprentissage automatique. Il est docteur en sciences après avoir fait une thèse en statistique sous la direction de Cédric Heuchenne. Il est actuelllement chercheur à l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
+Hugues Annoye est chercheur en statistique et en apprentissage automatique. Il est docteur en sciences après avoir fait une thèse en statistique sous la direction de Cédric Heuchenne. Il est actuellement chercheur à l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
 Hugues Annoye y participe au projet Beamm, qui vise à construire un modèle de microsimulation du système fiscal en Belgique. Il a été auparavant assistant en méthodes quantitatives (principalement en mathématiques).
  
 
