@@ -22,6 +22,7 @@ interests:
 - Statistics
 - Statistical Matching
 - GAN
+- Wasserstein GAN
 - Microsimulation modelling
 programming_language:
 - R

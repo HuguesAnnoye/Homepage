@@ -20,8 +20,9 @@ interests:
 - Sciences des données
 - Apprentissage automatique
 - Statistique
-- GAN
 - Statistical Matching
+- GAN
+- Wasserstein GAN
 - Microsimulations
 programming_language:
 - R
