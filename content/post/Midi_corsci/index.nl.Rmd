@@ -8,5 +8,4 @@ tags:
 - Latex
 ---
 
-# Midi du Corsci - Workshop LaTeX Overleaf.
 Op maandag 2 december 2024 gaf ik samen met Astrid Adam een workshop over Latex en Overleaf als onderdeel van het ''Midi du Corsci'' programma. Het seminar bestond uit een basisintroductie in Latex en Overleaf, gevolgd door een praktische sessie.
