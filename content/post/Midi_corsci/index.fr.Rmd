@@ -1,9 +1,11 @@
 ---
 title: "Midi du Corsci - Workshop LaTeX Overleaf"
-author: admin
-date: 2024-12-02
-categories: ["corsci"]
-tags: ["corsci","Latex"]
+author: "admin"
+date: "2024-12-02"
+categories: corsci
+tags:
+- corsci
+- Latex
 ---
 
 # Midi du Corsci - Workshop LaTeX Overleaf! 
