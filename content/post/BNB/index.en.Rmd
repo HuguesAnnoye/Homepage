@@ -1,9 +1,11 @@
 ---
 title: "NBB Data Academy: BEAMM - online open-access microsimulation modeling"
-author: admin
-date: 2024-04-25
-categories: ["Beamm"]
-tags: ["Beamm","Microsimulation"]
+author: "admin"
+date: "2024-04-25"
+categories: Beamm
+tags:
+- Beamm
+- Microsimulation
 ---
 
 # Seminar at nbb ! 
