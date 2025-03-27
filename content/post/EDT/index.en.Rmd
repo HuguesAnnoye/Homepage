@@ -1,0 +1,10 @@
+---
+title: "EDT Day from the EDT Stat-Actu"
+author: "admin"
+date: "2025-03-27"
+categories: ["Beamm"]
+tags: ["Beamm","Microsimulation"]
+---
+
+This Friday, March 28, I'll be presenting my research at EDT Stat-Actu's EDT Day. My presentation is entitled: 
+BEAMM project: How do we deal with data? Statistical matching and WGAN generation.
