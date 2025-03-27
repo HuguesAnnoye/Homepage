@@ -1,0 +1,10 @@
+---
+title: "Naxys"
+author: "admin"
+date: "2025-03-27"
+categories: ["Beamm"]
+tags: ["Beamm","Microsimulation"]
+---
+
+This Thursday, March 27 at 1pm I'm giving a seminar at the Naxys center of the University of Namur. It is entitled: 
+BEAMM project: How do we deal with data? Statistical matching and WGAN generation.
