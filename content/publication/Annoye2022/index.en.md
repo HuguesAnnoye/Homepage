@@ -4,19 +4,19 @@ authors:
 - admin
 - Alessandro Beretta
 - Cédric Heuchenne 
-date: "2024-01-08"
-doi: ""
+date: "2025-10-11"
+doi: "10.1016/j.knosys.2025.114626 "
 featured: false
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 projects: []
-publication: ''
+publication: 'Knowledge-Based Systems'
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2024-01-08"
+publishDate: "2025-10-11"
 slides: ""
 summary: ""
 tags:
