@@ -15,7 +15,7 @@ projects: []
 publication: 'Knowledge-Based Systems'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2025-10-11"
 slides: ""
 summary: ""
