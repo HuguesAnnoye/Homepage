@@ -66,3 +66,4 @@ Hugues Annoye est membre de plusieurs centres de recherche de l'<a href="https:/
 
 Il est également membre de l'Institut de Statistique, Biostatistique et sciences Actuarielles (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) de l'<a href="https://uclouvain.be/fr/index.html">UCLouvain</a> à Louvain-la-Neuve, de la Société belge de mathématiques (<a href="https://bms.ulb.ac.be/">BMS</a>) ainsi que de Société royale belge de statistique (<a href="https://rssb.be/">RSSB</a>).
 
+Finalement, il est aussi vice-président de la <a href="https://www.maphyl.com/">Maphyl</a>, l'association des diplômé·e·s et des enseignant·e·s en Sciences Mathématiques et Physiques de l'UCLouvain.
