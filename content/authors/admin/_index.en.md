@@ -65,4 +65,4 @@ Hugues Annoye is member of the Center for Applied Public Economics (<a href="htt
 
 He is also member of the Institute of Statistics, Biostatistics and Actuarial Sciences (<a href="https://uclouvain.be/en/research-institutes/lidam/isba">ISBA</a>) at <a href="https://uclouvain.be/en/index.html">UCLouvain</a> in Louvain-la-Neuve, of the Belgian Mathematical Society (<a href="https://bms.ulb.ac.be/">BMS</a>) and of the Royal Statistical Society of Belgium (<a href="https://rssb.be/">RSSB</a>).
 
-Finaly, he is also vice-president of the <a href="https://www.maphyl.com/">Maphyl</a>, the alumni association for mathematics and physics at UCLouvain.
+Finaly, he is also vice-president of the <a href="https://www.maphyl.com/">Maphyl</a>, the UCLouvain Association of Alumni in Mathematical and Physical Sciences.
