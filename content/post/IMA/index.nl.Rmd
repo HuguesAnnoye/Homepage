@@ -2,6 +2,7 @@
 title: "World congress 2026 of the International Microsimulation Association"
 author: "admin"
 date: "2026-07-02"
+publishDate: "2026-06-26" 
 categories: ["Beamm"]
 tags: ["Beamm","Microsimulation"]
 ---

@@ -1,0 +1,15 @@
+---
+title: "Beamm.conf 2025"
+author: "admin"
+date: "2025-05-26"
+publishDate: "2025-05-26"
+categories: Beamm
+tags:
+- Beamm
+- Microsimulation
+---
+
+Ce lundi 26 mai, je présenterai un poster lors de la Beamm.conf 2025. Le poster serai intitulé :       Statistical matching for the BEAMM project
+
+
+   

@@ -2,6 +2,7 @@
 title: "Beamm.conf 2026"
 author: "admin"
 date: "2026-06-30"
+publishDate: "2026-06-26" 
 categories: Beamm
 tags:
 - Beamm
@@ -9,4 +10,4 @@ tags:
 ---
 
 
-Aanstaande dinsdag 30 juni zal ik een poster presenteren tijdens de Beamm.conf 2026. De poster krijgt de titel:   Differential privacy for Wasserstein Generative Adversarial Networ
+Aanstaande dinsdag 30 juni zal ik een poster presenteren tijdens de Beamm.conf 2026. De poster krijgt de titel:   Differential privacy for Wasserstein Generative Adversarial Networks
