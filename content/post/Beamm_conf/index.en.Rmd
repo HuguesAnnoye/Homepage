@@ -1,0 +1,12 @@
+---
+title: "Beamm.conf 2026"
+author: "admin"
+date: "2026-06-30"
+categories: Beamm
+tags:
+- Beamm
+- Microsimulation
+---
+
+
+On Tuesday 30 June, I will be presenting a poster at Beamm.conf 2026. The poster will be entitled:   Differential privacy for Wasserstein Generative Adversarial Networks.
