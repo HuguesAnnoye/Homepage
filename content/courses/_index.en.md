@@ -9,6 +9,6 @@ view: 2
 
 Starting in the 2026-2027 academic year, I will be the instructor for the following course:
 
-- [Math2INGE1132 – Mathematics for Business Engineering II]({{< relref "/courses/Math2INGE1132" >}})
+- [BINGE1132 – Mathematics for Business Engineering II]({{< relref "/courses/Math2INGE1132" >}})
 
 Previously, I was a teaching assistant for the following courses:
