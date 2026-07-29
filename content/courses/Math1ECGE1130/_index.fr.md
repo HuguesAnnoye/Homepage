@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: ECGE1130 Mathématiques I (FR)
+linkTitle: BECGE1130 Mathématiques I (FR)
 summary: Une introduction aux mathématiques pour les étudiants de BAC 1 en économie et en gestion.
-title: ECGE1130 - Mathématiques pour l'économie et la gestion I (FR)
+title: BECGE1130 - Mathématiques pour l'économie et la gestion I (FR)
 type: book
 ---
 

@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: INGE1132 Mathématiques II (FR)
+linkTitle: BINGE1132 Mathématiques II (FR)
 summary: An introduction to mathematics for first-year business engineering students.
-title: INGE1132 - Mathématiques pour ingénieur de gestion II (FR)
+title: BINGE1132 - Mathématiques pour ingénieur de gestion II (FR)
 type: book
 ---
 

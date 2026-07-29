@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: INGE1132 Mathématiques II (FR)
+linkTitle: BINGE1132 Mathématiques II (FR)
 summary: Une introduction aux mathématiques pour les étudiants en ingénierie commerciale de niveau BAC 1.
-title: INGE1132 - Mathématiques pour ingénieur de gestion II (FR)
+title: BINGE1132 - Mathématiques pour ingénieur de gestion II (FR)
 type: book
 ---
 

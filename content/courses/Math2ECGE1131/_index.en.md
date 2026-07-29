@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: ECGE1131 Mathématiques II (FR)
-summary: An introduction to Mathematics for BAC 1 students in economics and business.
-title: ECGE1131 - Mathématiques pour l'économie et la gestion II (FR)
+linkTitle: BECGE1131 Mathématiques II (FR)
+summary: An introduction to mathematics for first-year students in economics and management.
+title: BECGE1131 - Mathématiques pour l'économie et la gestion II (FR)
 type: book
 ---
 
@@ -12,8 +12,8 @@ type: book
 
 - Face-to-face, 
 - First term, 
-- 30 hours of theory 
-- 30 hours of exercice
+- 30 hours of lectures
+- 30 hours of exercise sessions
 
 ## Language of instruction
 
@@ -21,23 +21,22 @@ The lectures, syllabus and textbook are provided in French.
 
 ## Learning outcomes
 
-L'objectif du cours est de compléter les connaissances relatives aux fonctions réelles d'une variable réelle (intégrales), ainsi que de généraliser l'ensemble de ces connaissances (y compris celles abordées dans le cours Mathématiques 1) aux fonctions à deux ou plusieurs variables. Il s'agit également de rendre l'étudiant capable de mobiliser l'ensemble des concepts mathématiques présentés dans le cadre de la mise en oeuvre des principales méthodes d'analyse économique: outils de statique comparative, optimisation à plusieurs variables, optimisation sous contraintes.
+The objective of this course is to extend students' knowledge of real-valued functions of a real variable (integrals) and to generalise this body of knowledge, including the concepts covered in Mathematics 1, to functions of two or more variables. It also aims to enable students to apply all the mathematical concepts presented when using the main methods of economic analysis: comparative statics tools, multivariable optimisation and constrained optimisation.
 
 
 ## Course content
-Les thèmes abordés sont:
-1. Les intégrales
-2. Les fonctions de plusieurs variables
-3. Concepts et outils de statique comparative: dérivation de fonctions composées, théorème des fonctions implicites, approximations du premier degré, fonctions homogènes et homothétiques, manipulations de systèmes d'équations
-4. Optimisation à plusieurs variables
-5. Optimisation sous contraintes
+The topics covered are:
+1. Integrals
+2. Functions of several variables
+3. Comparative statics concepts and tools: differentiation of composite functions, the implicit function theorem, first-order approximations, homogeneous and homothetic functions, and the manipulation of systems of equations
+4. Multivariable optimisation
+5. Constrained optimisation
 
-Au-delà de la présentation rigoureuse des concepts mathématiques, le cours abordera et traitera également de nombreux exemples d'applications économiques de ces derniers (en lien direct avec le second objectif du cours): calculs d'aire (distribution des revenus, surplus des agents), élasticités croisées et partielles, exercices de statique comparative, problème de maximisation des profits de la firme concurrentielle, problème de choix sous contrainte du consommateur, etc.
+In addition to presenting mathematical concepts rigorously, the course will cover and examine numerous examples of their applications in economics, directly related to the course's second objective: area calculations (income distribution and economic agents' surpluses), cross and partial elasticities, comparative statics exercises, the competitive firm's profit-maximisation problem, the consumer's constrained choice problem, etc.
 
 ## Course materials
-- Ouvrage de référence: Mathématiques pour l'Economie, Knut Sydsaeter et Peter Hammond, Pearson, 4ème édition.
+- Reference textbook: Mathématiques pour l'Economie, Knut Sydsaeter and Peter Hammond, Pearson, 4th edition.
 
-## Meet your instructor
+## Meet your teaching assistant
 
 {{< mention "admin" >}}
-

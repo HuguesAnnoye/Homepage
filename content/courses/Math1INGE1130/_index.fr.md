@@ -1,8 +1,8 @@
 ---
 date: "2021-01-24"
-linkTitle: INGE1130 Mathématiques (FR)
+linkTitle: BINGE1130 Mathématiques (FR)
 summary: Une introduction aux mathématiques pour les étudiants en ingénierie commerciale de niveau BAC 1.
-title: INGE1130 - Mathématiques pour ingénieur de gestion I (FR)
+title: BINGE1130 - Mathématiques pour ingénieur de gestion I (FR)
 type: book
 ---
 
