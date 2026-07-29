@@ -24,19 +24,19 @@ Les cours, le programme et le manuel sont fournis en français.
 
 INGE1132 - Mathématiques pour ingénieur de gestion II
 
-En raison de la crise du COVID-19, les informations ci-dessous sont susceptibles d'être modifiées, notamment celles qui concernent la méthode d'enseignement ou d'évaluation.
-
-
 Crédits : 5
 
-Professeur :
-Lavendhomme Thierry
+## Professeur :
+Annoye Hugues (2026-2027) (Lavendhomme Thierry, jusqu'en 2025-2026)
 
-Assistants :
-Annoye Hugues, Carlos Rodriguez Ameal
+##Assistants :
+Aron Van Driessche
+##Horaire :
+Second quadrimestre
+le mercredi de 10:45 à 12:45
+le jeudi de 10:45 à 12:45
 
-
-Objectifs d'apprentissage :
+##Objectifs d'apprentissage :
 Au terme de ce cours, l'étudiant devrait avoir complété ses connaissances relatives aux fonctions réelles d'une variable réelle (intégrales) et fait connaissance avec la théorie des fonctions à deux ou plusieurs variables, en ce compris des optimisations sous contrainte et une introduction aux équations aux dérivées partielles.
 Le cours étant en construction, plus de renseignements seront fournis lors du cours théorique.
 
@@ -47,7 +47,7 @@ Un autre objectif de ce cours est de rendre l'étudiant capable d'utiliser les c
 
 Le cours étant en construction, d'autres éléments pourront intervenir (en particulier une introduction aux équations aux dérivées partielles). Plus de renseignements seront donnés au cours théorique.
 
-Activités d'apprentissages prévues et méthodes d'enseignement :
+##Activités d'apprentissages prévues et méthodes d'enseignement :
 Cours et séances d'exercices.
 
 Un travail personnel est absolument nécessaire. Au-delà du cours et des TP, l'équipe enseignante est disponible pour répondre à des questions supplémentaires des étudiants - prendre contact par courriel (avec intitulé ET signature).
@@ -58,7 +58,7 @@ Il est possible qu'un système d'évaluation continue soit organisé.
 - Les notes de l'évaluation continue n'interviendraient que si, au vu de l'examen, elles permettent une amélioration de la note finale de l'étudiant. Les modalités pratiques de cette intervention positive ne sont pas encore fixées (ni sur la pondération éventuelle, ni sur la durée de validité de cette évaluation continue).
 - Les renseignements complémentaires seront donnés au cours théorique uniquement.
 
-Méthodes d'évaluation :
+## Méthodes d'évaluation :
 Examen final.
 - L'examen est écrit (et parcourt l'ensemble des matières vues -au cours et en séances de TP- avec des questions théoriques, de réflexions et des exercices).
 - Un formulaire sera fourni (une copie se trouvera sur le site du cours).
@@ -71,16 +71,17 @@ Il est possible qu'un système d'évaluation continue soit organisé.
 
 ## Course content
 Chapitres du livre de référence (STEWART 1)
-- Chapitre 5 : Les intégrales
+- Chapitre 5 : Les intégrales + Annexe G : Intégration des fonctions rationnelles par décomposition en éléments simples
 - Chapitre 6 : Des applications des intégrales
-- Chapitre 7 : Les équations différentielles
--
+- Chapitre 7 : Les équations différentielles + Annexe I : Les nombres complexes
+
 Chapitres du livre de référence (STEWART 2)
 - Chapitre 9 : Les vecteurs(voir aussi cours I)
 - Chapitre 10 : Les fonctions vectorielles (voir aussi cours I)
 - Chapitre 11 : Les dérivées partielles (y compris les sections 11.7 Valeurs extrêmes et 11.8 Les multiplicateurs de Lagrange !!)
 - Chapitre 12 : Les intégrales multiples
 
+Le cours étant en construction, d’autres éléments pourront intervenir (en particulier une introduction aux équations aux dérivées partielles). Plus de renseignements seront donnés au cours théorique.
 
 ## Course materials
 Livre de référence : Stewart J., Analyse, Concepts et contextes, Volume 1&2, De Boeck.
@@ -89,7 +90,7 @@ Références complémentaires (les années ne sont pas mentionnées car il y a p
 
 - Sydstaeter K. & Hammond P., Mathématiques pour l'économie, Pearson.
 
-## Rencontre ton assistant
+## Rencontre ton enseignant
 
 {{< mention "admin" >}}
 

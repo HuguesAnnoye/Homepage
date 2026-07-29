@@ -1,19 +1,19 @@
 ---
 date: "2021-01-24"
 linkTitle: INGE1132 Mathématiques II (FR)
-summary: An introduction to Mathematics for BAC 1 business engineering students.
+summary: An introduction to mathematics for first-year business engineering students.
 title: INGE1132 - Mathématiques pour ingénieur de gestion II (FR)
 type: book
 ---
 
 {{< toc hide_on="xl" >}}
 
-## Mode of delivery
+## Mode of delivery:
 
 - Face-to-face, 
 - First term, 
-- 45 hours of theory 
-- 22.5 hours of exercice
+- 45 hours of lectures
+- 22.5 hours of exercise sessions
 
 ## Language of instruction
 
@@ -21,110 +21,75 @@ The lectures, syllabus and textbook are provided in French.
 
 ## Learning outcomes
 
-
-
 INGE1132 - Mathématiques pour ingénieur de gestion II
 
-En raison de la crise du COVID-19, les informations ci-dessous sont susceptibles d'être modifiées, notamment celles qui concernent la méthode d'enseignement ou d'évaluation.
+Credits: 5
+
+## Instructor:
+Annoye Hugues (2026-2027) (Lavendhomme Thierry, until 2025-2026)
+
+## Teaching assistants:
+Aron Van Driessche
+
+## Schedule:
+Second term
+Wednesdays from 10:45 to 12:45
+Thursdays from 10:45 to 12:45
+
+## Learning objectives:
+By the end of this course, students should have expanded their knowledge of real-valued functions of a real variable (integrals) and become familiar with the theory of functions of two or more variables, including constrained optimisation and an introduction to partial differential equations.
+As the course is still being developed, further information will be provided during lectures.
+
+For each topic covered, by the end of the course, students will be able to define and explain the concepts, justify the successive steps of a proof, apply calculation techniques and solve various problems.
+
+Another objective of this course is to enable students to use mathematical concepts in economic contexts.
 
 
-Crédits : 5
+As the course is still being developed, other topics may be added, particularly an introduction to partial differential equations. Further information will be provided during lectures.
 
-Professeur :
-Lavendhomme Thierry
+## Planned learning activities and teaching methods:
+Lectures and exercise sessions.
 
-Assistants :
-Annoye Hugues, Funck Sylvain
+Independent work is absolutely essential. In addition to lectures and exercise sessions, the teaching team is available to answer students' additional questions. Please contact us by email, including a subject line AND a signature.
 
-Mode d'enseignement :
-Deuxième quadrimestre, 45 heures de théorie et 22,5 heures d'exercices.
+A continuous assessment scheme may be organised.
+- Participation in continuous assessment would be optional.
+- The scheme would consist of two comprehensive tests to help students master the essential concepts needed for the remainder of the course.
+- Continuous assessment marks would only be taken into account if, in light of the examination result, they improve the student's final mark. The practical arrangements for this positive adjustment have not yet been determined, including any potential weighting or the period for which the continuous assessment result would remain valid.
+- Further details will be provided during lectures only.
 
-Horaire :
-Second quadrimestre
-le lundi de 08:30 à 10:30
-le mercredi de 10:45 à 12:45
+## Assessment methods:
+Final examination.
+- The examination is written and covers all material taught in lectures and exercise sessions, with theoretical questions, reflection questions and exercises.
+- A formula sheet will be provided (a copy will be available on the course website).
 
-Langues d'enseignement :
-Français
+A continuous assessment scheme may be organised.
+- Participation in continuous assessment would be optional.
+- The scheme would consist of two comprehensive tests to help students master the essential concepts needed for the remainder of the course.
+- Continuous assessment marks would only be taken into account if, in light of the examination result, they improve the student's final mark. The practical arrangements for this positive adjustment have not yet been determined, including any potential weighting or the period for which the continuous assessment result would remain valid.
+- Further details will be provided during lectures only.
 
-Objectifs d'apprentissage :
-Au terme de ce cours, l'étudiant devrait avoir complété ses connaissances relatives aux fonctions réelles d'une variable réelle (intégrales) et fait connaissance avec la théorie des fonctions à deux ou plusieurs variables, en ce compris des optimisations sous contrainte et une introduction aux équations aux dérivées partielles.
-Le cours étant en construction, plus de renseignements seront fournis lors du cours théorique.
+## Course content
+Chapters from the reference textbook (STEWART 1)
+- Chapter 5: Integrals + Appendix G: Integration of Rational Functions by Partial Fractions
+- Chapter 6: Applications of Integration
+- Chapter 7: Differential Equations + Appendix I: Complex Numbers
 
-Pour chacun des thèmes étudiés, à la fin du cours, l'étudiant sera capable de définir et expliquer les concepts, de justifier les étapes successives d'une démonstration, de mettre en œuvre les techniques de calcul, de résoudre divers problèmes.
+Chapters from the reference textbook (STEWART 2)
+- Chapter 9: Vectors (see also Course I)
+- Chapter 10: Vector Functions (see also Course I)
+- Chapter 11: Partial Derivatives (including Sections 11.7 Extreme Values and 11.8 Lagrange Multipliers!!)
+- Chapter 12: Multiple Integrals
 
-Un autre objectif de ce cours est de rendre l'étudiant capable d'utiliser les concepts mathématiques dans des contextes économiques.
+As the course is still being developed, other topics may be added, particularly an introduction to partial differential equations. Further information will be provided during lectures.
 
-Prérequis :
-Aucun
+## Course materials
+Reference textbook: Stewart J., Analyse, Concepts et contextes, Volumes 1 & 2, De Boeck.
 
-Corequis :
-Aucun
-
-Contenu de l'activité :
-Chapitres du livre de référence (STEWART 1)
-- Chapitre 5 : Les intégrales
-- Chapitre 6 : Des applications des intégrales
-- Chapitre 7 : Les équations différentielles
--
-Chapitres du livre de référence (STEWART 2)
-- Chapitre 9 : Les vecteurs(voir aussi cours I)
-- Chapitre 10 : Les fonctions vectorielles (voir aussi cours I)
-- Chapitre 11 : Les dérivées partielles (y compris les sections 11.7 Valeurs extrêmes et 11.8 Les multiplicateurs de Lagrange !!)
-- Chapitre 12 : Les intégrales multiples
-
-Le cours étant en construction, d'autres éléments pourront intervenir (en particulier une introduction aux équations aux dérivées partielles). Plus de renseignements seront donnés au cours théorique.
-
-Activités d'apprentissages prévues et méthodes d'enseignement :
-Cours et séances d'exercices.
-
-Un travail personnel est absolument nécessaire. Au-delà du cours et des TP, l'équipe enseignante est disponible pour répondre à des questions supplémentaires des étudiants - prendre contact par courriel (avec intitulé ET signature).
-
-Il est possible qu'un système d'évaluation continue soit organisé.
-- La participation à l'évaluation continue y serait facultative.
-- Le système correspondrait en l'organisation de deux interrogations de synthèse afin de permettre une bonne appropriation des notions essentielles à la poursuite du cours.
-- Les notes de l'évaluation continue n'interviendraient que si, au vu de l'examen, elles permettent une amélioration de la note finale de l'étudiant. Les modalités pratiques de cette intervention positive ne sont pas encore fixées (ni sur la pondération éventuelle, ni sur la durée de validité de cette évaluation continue).
-- Les renseignements complémentaires seront donnés au cours théorique uniquement.
-
-Méthodes d'évaluation :
-Examen final.
-- L'examen est écrit (et parcourt l'ensemble des matières vues -au cours et en séances de TP- avec des questions théoriques, de réflexions et des exercices).
-- Un formulaire sera fourni (une copie se trouvera sur le site du cours).
-
-Il est possible qu'un système d'évaluation continue soit organisé.
-- La participation à l'évaluation continue y serait facultative.
-- Le système correspondrait en l'organisation de deux interrogations de synthèse afin de permettre une bonne appropriation des notions essentielles à la poursuite du cours.
-- Les notes de l'évaluation continue n'interviendraient que si, au vu de l'examen, elles permettent une amélioration de la note finale de l'étudiant. Les modalités pratiques de cette intervention positive ne sont pas encore fixées (ni sur la pondération éventuelle, ni sur la durée de validité de cette évaluation continue).
-- Les renseignements complémentaires seront donnés au cours théorique uniquement.
-
-Bibliographie :
-Livres de référence :
-- Stewart J., Analyse, Concepts et contextes, Volume 1, Fonctions d'une variable, De Boeck.
-- Stewart J., Analyse, Concepts et contextes, Volume 2, Fonctions de plusieurs variables, De Boeck.
-
-Références complémentaires (les années ne sont pas mentionnées car il y a parfois eu plusieurs versions, qui ne différaient que peu).
+Additional references (years are omitted because there have sometimes been several editions with only minor differences).
 
 - Sydstaeter K. & Hammond P., Mathématiques pour l'économie, Pearson.
 
-
-
-
-## Course content
-Chapitres du livre de référence (STEWART 1)
-- Chapitre 5 : Les intégrales
-- Chapitre 6 : Des applications des intégrales
-- Chapitre 7 : Les équations différentielles
--
-Chapitres du livre de référence (STEWART 2)
-- Chapitre 9 : Les vecteurs(voir aussi cours I)
-- Chapitre 10 : Les fonctions vectorielles (voir aussi cours I)
-- Chapitre 11 : Les dérivées partielles (y compris les sections 11.7 Valeurs extrêmes et 11.8 Les multiplicateurs de Lagrange !!)
-- Chapitre 12 : Les intégrales multiples
-
-
-## Course materials
-Livre de référence : Stewart J., Analyse, Concepts et contextes, Volume 1&2, De Boeck. 
 ## Meet your instructor
 
 {{< mention "admin" >}}
-
