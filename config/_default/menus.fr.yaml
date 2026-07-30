@@ -7,7 +7,7 @@ main:
   - name: Présentation
     url: '#about'
     weight: 10
-  - name: Nouvelles
+  - name: Conférences et nouvelles
     url: '#posts'
     weight: 20
   - name: Projets
