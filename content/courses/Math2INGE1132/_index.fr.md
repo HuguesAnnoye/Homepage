@@ -29,14 +29,14 @@ Crédits : 5
 ## Professeur :
 Annoye Hugues (2026-2027) (Lavendhomme Thierry, jusqu'en 2025-2026)
 
-##Assistants :
+## Assistants :
 Aron Van Driessche
-##Horaire :
+## Horaire :
 Second quadrimestre
 le mercredi de 10:45 à 12:45
 le jeudi de 10:45 à 12:45
 
-##Objectifs d'apprentissage :
+## Objectifs d'apprentissage :
 Au terme de ce cours, l'étudiant devrait avoir complété ses connaissances relatives aux fonctions réelles d'une variable réelle (intégrales) et fait connaissance avec la théorie des fonctions à deux ou plusieurs variables, en ce compris des optimisations sous contrainte et une introduction aux équations aux dérivées partielles.
 Le cours étant en construction, plus de renseignements seront fournis lors du cours théorique.
 
@@ -47,7 +47,7 @@ Un autre objectif de ce cours est de rendre l'étudiant capable d'utiliser les c
 
 Le cours étant en construction, d'autres éléments pourront intervenir (en particulier une introduction aux équations aux dérivées partielles). Plus de renseignements seront donnés au cours théorique.
 
-##Activités d'apprentissages prévues et méthodes d'enseignement :
+## Activités d'apprentissages prévues et méthodes d'enseignement :
 Cours et séances d'exercices.
 
 Un travail personnel est absolument nécessaire. Au-delà du cours et des TP, l'équipe enseignante est disponible pour répondre à des questions supplémentaires des étudiants - prendre contact par courriel (avec intitulé ET signature).
