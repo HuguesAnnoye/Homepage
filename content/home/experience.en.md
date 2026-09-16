@@ -51,6 +51,17 @@ experience:
         * running on a micro-dataset representing the population of the Brussels Capital Region 
         * focussing on tax-benefit competences of the Region
         * beamm.brussels is funded by Innoviris in the Prospective Research for Brussels program
+  - title: Postdoctoral Researcher
+    company: GEMTEX
+    company_url: ''
+    company_logo: gemtex
+    location: Roubaix
+    date_start: '2026-09'
+    date_end: ''
+    description: |2-
+         Research stay in Professor Kim Phuc Tran’s group at GEMTEX, ENSAIT, University of Lille, to work on:
+        * methods for Robust and Explainable Anomaly Detection;
+        * Human-Centered Learning Mechanics for Risk-Constrained Reinforcement Learning.
 
 design:
   columns: '2'
