@@ -50,7 +50,7 @@ experience:
         * fonctionnant sur un ensemble de micro-données représentant la population de la Région de Bruxelles-Capitale 
         * se concentre sur les compétences de la Région en matière de fiscalité et d'avantages sociaux.
         * beamm.brussels est financé par Innoviris dans le cadre du programme Prospective Research for Brussels.
- - title: Chercheur posdoctoral
+  - title: Chercheur posdoctoral
     company: GEMTEX
     company_url: ''
     company_logo: gemtex
