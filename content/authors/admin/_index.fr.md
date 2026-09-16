@@ -58,8 +58,8 @@ superuser: true
 title: Hugues Annoye
 ---
 
-Hugues Annoye est chercheur en statistique et en apprentissage automatique. Il est docteur en sciences après avoir fait une thèse en statistique sous la direction de Cédric Heuchenne. Il est actuellement chercheur à l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
-Hugues Annoye y participe au projet Beamm, qui vise à construire un modèle de microsimulation du système fiscal en Belgique. Il a été auparavant assistant en méthodes quantitatives (principalement en mathématiques).
+Hugues Annoye est chercheur en statistique et en apprentissage automatique. Il est docteur en sciences après avoir fait une thèse en statistique sous la direction de Cédric Heuchenne. Il est actuellement chercheur posdoctoral à l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a>. 
+Hugues Annoye y participe au projet Beamm, qui vise à construire un modèle de microsimulation du système fiscal en Belgique. Il a été auparavant assistant en méthodes quantitatives (principalement en mathématiques). Durant le premier quadrimestre de l’année académique 2026-2027, il effectue un séjour de recherche au sein de l’équipe de Kim Phuc Tran, au laboratoire <a href="https://www.gemtex.fr/">GEMTEX</a> de l’ENSAIT (Université de Lille).
  
 
 Hugues Annoye est membre de plusieurs centres de recherche de l'<a href="https://www.usaintlouis.be">UCLouvain Saint-Louis Bruxelles</a> : le Center for Applied Public Economics (<a href="https://cape-saintlouis.be/">CAPE</a>), le Séminaire de mathématiques appliquées aux sciences humaines (<a href="https://www3.usaintlouis.be/4DACTION/rechw_detail_unite/11/F">NODES</a>), l'Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) et le Centre de Recherche en Économie (<a href="https://cerec.be">CEREC</a>). 
