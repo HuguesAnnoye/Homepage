@@ -55,7 +55,7 @@ experience:
     company_url: ''
     company_logo: gemtex
     location: Roubaix
-    date_start: '2026-09'
+    date_start: '2026-09-07'
     date_end: ''
     description: |2-
         Séjour de recherche dans le groupe du professeur Kim Phuc Tran au GEMTEX, ENSAIT, Université de Lille pour travailler :

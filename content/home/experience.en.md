@@ -56,7 +56,7 @@ experience:
     company_url: ''
     company_logo: gemtex
     location: Roubaix
-    date_start: '2026-09'
+    date_start: '2026-09-07'
     date_end: ''
     description: |2-
          Research stay in Professor Kim Phuc Tran’s group at GEMTEX, ENSAIT, University of Lille, to work on:
