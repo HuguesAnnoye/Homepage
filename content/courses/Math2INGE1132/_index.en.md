@@ -29,7 +29,7 @@ Credits: 5
 Annoye Hugues (2026-2027) (Lavendhomme Thierry, until 2025-2026)
 
 ## Teaching assistants:
-Aron Van Driessche
+Aron Van Driessche and Kamil Pietrasz
 
 ## Schedule:
 Second term

@@ -30,7 +30,7 @@ Crédits : 5
 Annoye Hugues (2026-2027) (Lavendhomme Thierry, jusqu'en 2025-2026)
 
 ## Assistants :
-Aron Van Driessche
+Aron Van Driessche et Kamil Pietrasz
 ## Horaire :
 Second quadrimestre
 le mercredi de 10:45 à 12:45
