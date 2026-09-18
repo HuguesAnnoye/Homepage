@@ -50,7 +50,7 @@ experience:
         * fonctionnant sur un ensemble de micro-données représentant la population de la Région de Bruxelles-Capitale 
         * se concentre sur les compétences de la Région en matière de fiscalité et d'avantages sociaux.
         * beamm.brussels est financé par Innoviris dans le cadre du programme Prospective Research for Brussels.
-  - title: Chercheur posdoctoral
+  - title: Chercheur postdoctoral
     company: GEMTEX
     company_url: ''
     company_logo: gemtex
@@ -58,9 +58,9 @@ experience:
     date_start: '2026-09-07'
     date_end: ''
     description: |2-
-        Séjour de recherche dans le groupe du professeur Kim Phuc Tran au GEMTEX, ENSAIT, Université de Lille pour travailler :
-        * des méthodes de étection d’anomalies robuste et explicable
-        * des mécanismes d’apprentissage centrés sur l’humain pour l’apprentissage par renforcement sous contraintes de risque
+        Séjour de recherche dans le groupe du professeur Kim-Phuc Tran au GEMTEX, ENSAIT, Université de Lille, pour travailler sur :
+        * des méthodes de détection d'anomalies robustes et explicables ;
+        * des mécanismes d'apprentissage centrés sur l’humain pour l'apprentissage par renforcement sous contraintes de risque.
 design:  
   columns: '2'
 ---

@@ -59,7 +59,7 @@ experience:
     date_start: '2026-09-07'
     date_end: ''
     description: |2-
-         Research stay in Professor Kim Phuc Tran’s group at GEMTEX, ENSAIT, University of Lille, to work on:
+        Research stay in Professor Kim-Phuc Tran's group at GEMTEX, ENSAIT, University of Lille, to work on:
         * methods for Robust and Explainable Anomaly Detection;
         * Human-Centered Learning Mechanics for Risk-Constrained Reinforcement Learning.
 
