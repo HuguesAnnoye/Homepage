@@ -14,7 +14,7 @@ projects: []
 publication: 'Applied Intelligence'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2025-11-11"
 slides: ""
 summary: ""
